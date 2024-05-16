@@ -14,7 +14,7 @@ var reorderList = function(head) {
     const newStack=[...stack]
 
     head=stack[0];
-    while()
+
 
 
 
